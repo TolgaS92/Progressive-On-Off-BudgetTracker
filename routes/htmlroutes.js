@@ -1,0 +1,11 @@
+const path = require('path');
+
+module.exports = function (app) {
+  app.get('/', function (req, res) {
+    res.sendFile(path.join(__dirname, '../client/index.html'));
+  });
+
+  app.get('/client/assets/css/style.css', function (req, res) {
+    res.sendFile(path.join(__dirname, '../assets/css/style.css'));
+  });
+};
