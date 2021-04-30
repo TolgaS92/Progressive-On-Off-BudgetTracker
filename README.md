@@ -36,12 +36,9 @@
 
 - User only needs to add or subtract funds, it will save to the database and will show the income and outgoings with the graphs.
 
-| Before                                           | After                                           |
-| ------------------------------------------------ | ----------------------------------------------- |
-| ![Before PWA](public/sreenschots/Before PWA.JPG) | ![After PWA](public/sreenschots/Before PWA.JPG) |
-
-- ![Before PWA](public/sreenschots/Before PWA.JPG)
-- ![After PWA](public/sreenschots/Before PWA.JPG)
+| Before                                        | After                                        |
+| --------------------------------------------- | -------------------------------------------- |
+| ![alt text](public/screenshots/BeforePWA.JPG) | ![alt text](public/screenshots/AfterPWA.JPG) |
 
 ## License
 
