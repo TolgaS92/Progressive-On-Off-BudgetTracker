@@ -5,7 +5,7 @@ module.exports = function (app) {
     res.sendFile(path.join(__dirname, '../client/index.html'));
   });
 
-  app.get('/client/assets/css/style.css', function (req, res) {
+  app.get('/assets/css/style.css', function (req, res) {
     res.sendFile(path.join(__dirname, '../assets/css/style.css'));
   });
 };

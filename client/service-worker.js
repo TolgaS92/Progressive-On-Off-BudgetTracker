@@ -1,9 +1,11 @@
 const FILES_TO_CACHE = [
   '/',
   '/index.html',
-  '/assets/css/style.css',
-  'https://fonts.googleapis.com/css?family=Istok+Web|Montserrat:800&display=swap',
-  'https://cdnjs.cloudflare.com/ajax/libs/normalize/8.0.1/normalize.min.css',
+  '/assets/css/styles.css',
+  '/favicon.ico',
+  '/dist/app.bundle.js',
+  "/assets/images/icons/icon-192x192.png", 
+  "/assets/images/icons/icon-512x512.png",
 ];
 
 const PRECACHE = 'precache-v1';
